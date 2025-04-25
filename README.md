@@ -1,1 +1,3 @@
 # EA_Dist_Lite
+
+When the other OS-Installer marked as virus somehow...
